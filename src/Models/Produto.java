@@ -3,7 +3,6 @@ package Models;
 public class Produto {
     private String titulo;
     private String material;
-    private int numeroDeVendas;
     private double preco;
     private String tempoDeUso;
     private String descricao;
@@ -22,14 +21,6 @@ public class Produto {
 
     public void setMaterial(String material) {
         this.material = material;
-    }
-
-    public int getNumeroDeVendas() {
-        return numeroDeVendas;
-    }
-
-    public void setNumeroDeVendas(int numeroDeVendas) {
-        this.numeroDeVendas = numeroDeVendas;
     }
 
     public double getPreco() {
@@ -54,5 +45,9 @@ public class Produto {
 
     public void setDescricao(String descricao) {
         this.descricao = descricao;
+    }
+
+    public void informacoesProduto() {
+
     }
 }
