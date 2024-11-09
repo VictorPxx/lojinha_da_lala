@@ -1,6 +1,8 @@
 package Models;
 
-public class AcessoriosConforto extends Roupa{
+import Calculos.Informacoes;
+
+public class AcessoriosConforto extends Roupa implements Informacoes {
     private double altura;
     private double largura;
     private double profundidade;

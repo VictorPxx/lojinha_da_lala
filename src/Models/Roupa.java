@@ -1,8 +1,9 @@
 package Models;
 
+import Calculos.Informacoes;
 import Calculos.Pagavel;
 
-public class Roupa extends Produto implements Pagavel {
+public class Roupa extends Produto implements Pagavel, Informacoes {
     private String tamanho;
 
     public String getTamanho() {

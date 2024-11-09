@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dc9587f-d1a6-49b6-a0e5-73ad16bb3bf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Calculos/Pagavel.java" afterDir="false" />
+    <list default="true" id="8dc9587f-d1a6-49b6-a0e5-73ad16bb3bf4" name="Changes" comment="atualizando classes, add interface pagavel">
+      <change afterPath="$PROJECT_DIR$/src/Calculos/Informacoes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Models/AcessoriosAlimentacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/AcessoriosAlimentacao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Models/AcessoriosConforto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/AcessoriosConforto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Models/AcessoriosDistracao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/AcessoriosDistracao.java" afterDir="false" />
@@ -30,21 +29,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "VictorPxx"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;VictorPxx&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/VictorPxx/lojinha_da_lala.git",
-    "accountId": "a25cff88-f3a5-473c-ac6a-cb6b96020403"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/VictorPxx/lojinha_da_lala.git&quot;,
+    &quot;accountId&quot;: &quot;a25cff88-f3a5-473c-ac6a-cb6b96020403&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2oWpBxxYG85v8f6suAFXmmfkiFl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -56,7 +55,8 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/victo/IdeaProjects/lojinha_da_lala"
   }
 }]]></component>
   <component name="RunManager">
@@ -90,11 +90,20 @@
       <option name="project" value="LOCAL" />
       <updated>1730996604643</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="atualizando classes, add interface pagavel">
+      <option name="closed" value="true" />
+      <created>1731102030816</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731102030816</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Iniciando projeto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iniciando projeto" />
+    <MESSAGE value="atualizando classes, add interface pagavel" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizando classes, add interface pagavel" />
   </component>
 </project>

@@ -1,6 +1,8 @@
 package Models;
 
-public class AcessoriosDistracao extends Roupa{
+import Calculos.Informacoes;
+
+public class AcessoriosDistracao extends Roupa implements Informacoes {
     private String cuidados;
 
     public String getCuidados() {

@@ -1,6 +1,8 @@
 package Models;
 
-public class AcessoriosAlimentacao extends Roupa{
+import Calculos.Informacoes;
+
+public class AcessoriosAlimentacao extends Roupa implements Informacoes {
     private double volume;
 
     public double getVolume() {
